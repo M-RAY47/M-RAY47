@@ -1,9 +1,9 @@
 ### Hi there 👋
 ## I'm Abdou Yahaouza M.RAY 
-### 🎲👨‍💻♟🎱
+### I love workout💪 and coffee :coffee!!!🎲👨‍💻♟🎱
 
 <a href="https://github.com/M-RAY47/Snake-game"><img src="https://github.com/M-RAY47/Snake-game/blob/master/snake_game.gif" width="256"/></a>
-I love workout💪 and coffee ::coffee!!!
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-RAY47&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-RAY47&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 

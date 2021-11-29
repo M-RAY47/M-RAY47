@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Abdou Yahaouza M.RAY 
-### I love workout💪 and coffee :coffee!!!🎲👨‍💻♟🎱
+### I love workout💪 and coffee ☕!!!🎲👨‍💻♟🎱
 
 <a href="https://github.com/M-RAY47/Snake-game"><img src="https://github.com/M-RAY47/Snake-game/blob/master/snake_game.gif" width="256"/></a>
 

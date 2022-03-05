@@ -1,8 +1,12 @@
 ### Hi there 👋
 ## I'm Abdou Yahouza M.RAY
+<hr/>
+#A Software Engineer at Impulz Digital
 ### I love workout💪 and coffee ☕!!!🎲👨‍💻♟🎱
 
 <a href="https://github.com/M-RAY47/Snake-game"><img src="https://github.com/M-RAY47/Snake-game/blob/master/snake_game.gif" width="256"/></a>
+<br/>
+<p>This doesn't take into account the work done in forks, organizations, or private repos.</p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-RAY47&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--

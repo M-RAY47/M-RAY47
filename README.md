@@ -1,5 +1,6 @@
 ### Hi there 👋
-## I'm Abdou Yahaouza M.RAY 
+## I'm Abdou Yahouza M.RAY 
+## A Software Engineer at Impulz Digital
 ### I love workout💪 and coffee ☕!!!🎲👨‍💻♟🎱
 
 <a href="https://github.com/M-RAY47/Snake-game"><img src="https://github.com/M-RAY47/Snake-game/blob/master/snake_game.gif" width="256"/></a>

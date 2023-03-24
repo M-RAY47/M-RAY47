@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Abdou Yahouza M.RAY
-# Software Engineer at Bitget
+# Software Engineer at <a href="https://bitget.com">Bitget</a>
 ### I love workout💪 and coffee ☕!!!🎲👨‍💻♟🎱
 
 <a href="https://github.com/M-RAY47/Snake-game"><img src="https://github.com/M-RAY47/Snake-game/blob/master/snake_game.gif" width="256"/></a>

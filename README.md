@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Abdou Yahouza M.RAY
-# Software Engineer at Impulz Digital
+# Software Engineer at Bitget
 ### I love workout💪 and coffee ☕!!!🎲👨‍💻♟🎱
 
 <a href="https://github.com/M-RAY47/Snake-game"><img src="https://github.com/M-RAY47/Snake-game/blob/master/snake_game.gif" width="256"/></a>
